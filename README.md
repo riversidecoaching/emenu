@@ -1,1 +1,1 @@
-# tamstore, an ecommerce UI built on Bootstrap
+# an accessible digital menu interface for hospitality retailers
