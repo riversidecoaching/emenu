@@ -1,1 +1,1 @@
-# tamstore, an ecommerce UI based on Bootstrap
+# tamstore, an ecommerce UI built on Bootstrap
